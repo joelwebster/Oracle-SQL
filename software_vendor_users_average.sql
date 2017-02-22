@@ -52,3 +52,4 @@ select distinct city, country from joel.customers; -- distinct city, state combi
 select distinct city from joel.customers;
 select city from joel.customers;
 select distinct city,country from joel.employees;
+
